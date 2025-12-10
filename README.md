@@ -14,10 +14,10 @@ The model is trained to output a structured response that includes the predicted
 ## Repository Contents
 | File Name | Description |
 | :--- | :--- |
-| `llms.ipynb` | The fully executed Google Colab notebook. |
-| `train.jsonl` / `test.jsonl` | The prepared training and testing data for the LLM. |
-| `confusion_matrix.png` | Visual evaluation showing the model's performance on the test set. |
-| `demo_query_output.txt` | The structured output for the required test query (`Fever, headache, body pain`). |
+| `llms.ipynb` | https://colab.research.google.com/drive/1qM2kiIjb8Erx4YWQytOthtnLdIiSupOJ?usp=sharing |
+| `train.jsonl` / `test.jsonl` | https://drive.google.com/drive/folders/115vYK2Grr9ayv0_vk66Fa4rw4eBGnARH?usp=sharing |
+| `confusion_matrix.png` | https://drive.google.com/drive/folders/115vYK2Grr9ayv0_vk66Fa4rw4eBGnARH?usp=sharing |
+| `demo_query_output.txt` | https://drive.google.com/drive/folders/115vYK2Grr9ayv0_vk66Fa4rw4eBGnARH?usp=sharing |
 
 ## Demo Video (Mandatory Submission)
 https://drive.google.com/file/d/1Ra9vqRcr479HBWHVOUWO4rq6jcRIogGM/view?usp=sharing
